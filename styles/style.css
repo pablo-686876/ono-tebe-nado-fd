@@ -42,7 +42,6 @@
 }
 
 .header .address {
-  font-style: none;
   font-size: 18px;
   width: 240px;
   line-height: 135%;
@@ -202,7 +201,6 @@
   display: grid;
   grid-template-columns: 334px 1fr;
   height: 595px;
-  padding: 120px 24px 180px;
   background-color: #fff;
   padding: 0 24px 0;
 }
@@ -254,7 +252,6 @@
 }
 
 .footer .address {
-  font-style: none;
   font-size: 18px;
   width: 240px;
   line-height: 135%;
